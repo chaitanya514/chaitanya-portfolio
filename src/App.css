@@ -10,6 +10,7 @@
     background: linear-gradient(to right, #EC6EAD, #3494E6); 
   }
 
+
   .avatar-img{
    height:250px;
    padding-top: 5em;
@@ -58,5 +59,6 @@
 .social-links i{
   color: white;
   font-size: 5em;
+  padding: 8px;
 
 }

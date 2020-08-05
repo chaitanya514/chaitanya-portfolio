@@ -8,7 +8,7 @@ class LandingPage extends Component {
             <div style={{ width: "100", margin: "auto" }}>
                 <Grid className="landing-grid">
                     <Cell col={12}>
-                        <img src="https://cdn.icon-icons.com/icons2/1879/PNG/512/iconfinder-10-avatar-2754575_120521.png"
+                        <img src="https://miro.medium.com/max/1200/1*lbRRHICAZjLkotvrMY7MLQ.png"
                             alt="avatar"
                             className="avatar-img"
                         />
@@ -21,24 +21,19 @@ class LandingPage extends Component {
                     </p>
 
 
-                    <div className="social-links">
-                            <a href="https://www.linkedin.com/in/chaitanya-patel-a195579a/" target="_blank">
-                            <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                            <div className="social-links">
+                                <a href="https://www.linkedin.com/in/chaitanya-patel-a195579a/" target="_blank" rel="noopener noreferrer">
+                                    <i className="fa fa-linkedin-square" aria-hidden="true"></i>
 
-                            </a>
+                                </a>
 
-                            <a href="https://github.com/chaitanya514" target="_blank">
-                            <i class="fa fa-github-square" aria-hidden="true"></i>
+                                <a href="https://github.com/chaitanya514" target="_blank" rel="noopener noreferrer">
+                                    <i className="fa fa-github-square" aria-hidden="true"></i>
 
-                            </a>
+                                </a>
 
-                           
-
-
+                            </div>
                         </div>
-                        </div>
-                       
-
 
                     </Cell>
 

@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { Layout, Header, Drawer, Navigation, Content } from 'react-mdl';
 import 'react-mdl/extra/material.css';
